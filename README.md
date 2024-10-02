@@ -48,14 +48,6 @@ This project fulfills the following requirements:
 - Cleaning text data using regex.
 
 
-### **Usage**
-Once inside the Jupyter Notebook (`Data_Manipulation_Task_W4.ipynb`), you can run the cells to inspect, clean, and manipulate the data. The notebook covers all the tasks, including:
-- Data inspection.
-- Handling missing values.
-- Data reshaping and merging.
-- Grouping and aggregating data.
-- Applying functions and imputation.
-
 ### **Key Features**
 - **Data Inspection**: Methods to inspect and understand the structure of the dataset.
 - **Missing Data Handling**: Demonstrates multiple strategies for handling missing data (dropping, filling, imputing).
